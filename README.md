@@ -1,9 +1,7 @@
-# Makoto Fujikawa
+# Makoto
 
-Hi hi,
+Hello, Makoto here!
 
-Makoto here! I am an Intermediate PHP Developer (at best) specializing mostly in Laravel based applications.
+I am a web developer, programmer and systems administrator by trade. My primary programming languages are PHP and Python at the moment.
 
-Though I'm currently only proficient in PHP, I am striving to branch out and learn new languages such as Python.
-
-Nice to meet you!
+Aside from the geeky stuff, I'm also a bit of an amateur photographer!
